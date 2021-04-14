@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/webhook@sha256:07894526a4b49c61c5333e4f48190e830ce5124f0c18e1042cc15fcb594bfc37
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/webhook@sha256:fdf57643768d1b4337dbb347dade96cbdb2cdca74e564909f73895bf377fbadf
 MAINTAINER horoscope.liu@gmail.com
